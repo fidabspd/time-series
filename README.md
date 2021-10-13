@@ -1,6 +1,3 @@
-# Git tutorial
+# Kaggle Tabular Playground Series - Oct 2021
 
-## Study with
-
-<https://www.youtube.com/watch?v=FXDjmsiv8fI>\
-<https://www.youtube.com/watch?v=GaKjTjwcKQo&t=191s>
+<https://www.kaggle.com/c/tabular-playground-series-oct-2021>
