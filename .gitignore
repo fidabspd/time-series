@@ -4,8 +4,4 @@ data/
 model/
 submit/
 codes/custom_functions/__pycache__/
-codes/catboost_info/
-xgboost/
-cmake-3.18.2/
-cmake-3.18.2.tar.gz
 *.log
