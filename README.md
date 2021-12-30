@@ -1,3 +1,5 @@
-# Kaggle Tabular Playground Series - Oct 2021
+# Time Series Tutorial
 
-<https://www.kaggle.com/c/tabular-playground-series-oct-2021>
+## Data
+
+<https://dacon.io/competitions/official/235736/overview/description>
