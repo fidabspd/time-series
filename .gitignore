@@ -1,6 +1,7 @@
 .ipynb_checkpoints
 Untitled*
 data/
+logs/
 model/
 submit/
 codes/custom_functions/__pycache__/
